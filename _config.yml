@@ -17,7 +17,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: b.yilin.cool
+url: https://b.yilin.cool/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -71,7 +71,7 @@ authors:
     Yilin:
         name: Yilin Ren
         bio: 木岚画凉
-        about: b.yilin.cool/about
+        about: https://b.yilin.cool/about
         external-image: false
         picture: assets/images/profile.JPG
         # twitter: johndoe
@@ -124,7 +124,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: b.yilin.cool
+    base_url: https://b.yilin.cool
 
 markdown: kramdown
 kramdown:
