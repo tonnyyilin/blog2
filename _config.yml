@@ -17,8 +17,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://03k.yilin.cool
-# your url: http://USERNAME.github.io
+url: https://imyilin.top
+# your url: http://tonnyyilin.github.io
 
 permalink: /:title/
 
@@ -26,7 +26,7 @@ permalink: /:title/
 analytics-google: ''
 
 # To enable piwik tracking, supply your url & site ID below
-analytics-piwik-url: 'https://b.yilin.cool/'
+analytics-piwik-url: 'https://imyilin.top/'
 analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
@@ -71,7 +71,7 @@ authors:
     Yilin:
         name: Yilin Ren
         bio: 木岚画凉
-        about: https://03k.yilin.cool/about
+        about: https://imyilin.top/about
         external-image: false
         picture: assets/images/profile.JPG
         # twitter: johndoe
@@ -124,8 +124,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://03k.yilin.cool
-
+    base_url: https://imyilin.top
 markdown: kramdown
 kramdown:
     input: GFM
